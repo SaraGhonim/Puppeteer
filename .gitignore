@@ -1,0 +1,32 @@
+node_modules/
+
+AutofillStates/
+BrowserMetrics/
+CertificateRevocation/
+ClientSidePhishing/
+CommerceHeuristics/
+Crashpad/
+Crowd Deny/
+Default/
+DesktopSharingHub/
+FileTypePolicies/
+FirstPartySetsPreloaded/
+GrShaderCache/
+hyphen-data/
+MEIPreload/
+OnDeviceHeadSuggestModel/
+OptimizationHints/
+
+OriginTrials/
+PKIMetadata/
+pnacl/
+report/
+Safe Browsing/
+Safety Tips/
+ShaderCache/
+SSLErrorAssistant/
+Subresource Filter/
+TrustTokenKeyCommitments/
+UrlParamClassifications/
+ZxcvbnData/
+
